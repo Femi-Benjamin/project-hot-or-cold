@@ -44,7 +44,6 @@ table {
 
 /* Here starts CSS code after the reset */
 body {
-    background: url("background.png");
     min-width: 600px;
 
 }
