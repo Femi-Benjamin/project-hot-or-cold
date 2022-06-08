@@ -15,7 +15,7 @@ $(document).ready(function() {
         console.log("secretNumber: " + secretNumber);
 
         maxTemp = Math.max(Math.abs(100 - secretNumber),
-                           secretNumber);
+        secretNumber);
         console.log("maxTemp: " + maxTemp);
         oldTemp = 0;
 
